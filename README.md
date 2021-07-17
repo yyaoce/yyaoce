@@ -1,9 +1,9 @@
--Hi I'm @yyaoce
--Languages I know are Python and Java
--I'm currently learning C
--Reach me through my email at yyaoce@gmail.com
+Hi I'm @yyaoce
+Languages I know are Python and Java
+I'm currently learning C
+Reach me through my email at yyaoce@gmail.com
 
--README 
+README 
 
 You've invested all your money into Doge Coin and dream of becoming a crypto millionare! 
 Day by day you watch the value of doge coin rise but one fine summer afternoon you decide to watch some TV...
