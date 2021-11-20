@@ -1,6 +1,5 @@
 Hi I'm @yyaoce
-Languages I know are Python and Java
-I'm currently learning C
+Languages I know are Python, Java, and C.
 Reach me through my email at yyaoce@gmail.com
 
 <!---
